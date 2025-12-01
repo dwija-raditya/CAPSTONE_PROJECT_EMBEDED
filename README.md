@@ -1,4 +1,4 @@
-#  Sistem Deteksi Kebakaran & Kebocoran Gas Cerdas (IoT & Fuzzy Logic)
+#  Sistem Deteksi Kebakaran & Kebocoran Gas Cerdas (IoT)
 
 Sistem deteksi dini bencana berbasis mikrokontroler yang mengintegrasikan pemantauan lingkungan *real-time* via **IoT (Blynk)** dengan **Logika Fuzzy** untuk pengambilan keputusan yang akurat. Sistem ini dirancang untuk meminimalisir *false alarm* melalui mekanisme verifikasi sensor ganda (**Logika "2-dari-4"**).
 
